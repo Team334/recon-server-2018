@@ -4,6 +4,7 @@
   "description": "Server for the 2018 Recon mobile scouting app",
   "dependencies": {
     "express": "^4.16.2",
+    "googleapis": "^27.0.0",
     "mongoose": "^5.0.10",
     "socket.io": "^2.0.4"
   }
